@@ -1,5 +1,5 @@
 # Link para os projetos
-1ª Imersão Dev que participei da Alura 
+1ª Imersão Dev que participei da Alura, com os intrutores <a href="https://github.com/rafaballerini">Rafaella Ballerini</a> e <a href="https://github.com/guilhermeonrails">Guilherme Lima</a> 
 
 💰 <a href="https://codepen.io/geborba19/pen/eYgYzPRl">Conversor de Moedas</a><br>
 📇 <a href="https://codepen.io/geborba19/pen/eYgYzPRl">Calculadora </a><br>
