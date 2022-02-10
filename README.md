@@ -8,5 +8,5 @@
 🎬 <a href="https://codepen.io/geborba19/pen/eYgpqMB">AluraFlix</a><br>
         📺 <a href="https://codepen.io/geborba19/pen/yLgazjY">Aluraflix com botão</a><br>
 🥇 <a href="https://codepen.io/geborba19/pen/ZELXJPW">Tabela de classificação</a><br>
-🃏 <a href="https://codepen.io/geborba19/pen/xxgXjLE">Super Trunfo</a><br>
+🃏 <a href="https://codepen.io/geborba19/pen/VwrpoJj">Super Trunfo</a><br>
 
